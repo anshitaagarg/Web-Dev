@@ -71,5 +71,5 @@
 </pre>
 ###### Section  13
 <pre>
--74                 29 Mar 2025    
+-74                 29 Mar 2025      started a new cohort 3.0 course of Web Dev 
 </pre>
