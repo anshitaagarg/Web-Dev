@@ -72,4 +72,5 @@
 ###### Section  13
 <pre>
 -74                 29 Mar 2025      started a new cohort 3.0 course of Web Dev 
+-78, 40mins          1 Apr 2025      completed first video of Week 1
 </pre>
